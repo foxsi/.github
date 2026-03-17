@@ -1,17 +1,14 @@
-<!-- Profile Header -->
-<h1 align="center">FOXSI</h1><h1><UNIVERSE AI</h1>
-<p align="center">
-  <a href="https://github.com/foxsi"><img src="https://img.shields.io/github/followers/foxsi?label=GitHub&style=social" /></a>
-  <a href="https://foxsi.github.io/"><img src="https://img.shields.io/badge/Website-Visit-green" /></a>
-</p>
+## FOXSI .github
 
-## About FOXSI
+🚧 If you're updating `.github/profile/README.md` for public viewing, please see & update the member view one at `.github-private/profile/README.md`. 🚧 
 
-github
+This repository gives the FOXSI Github profile a README. 
 
-The Focussing Optics X-ray Solar Imager (FOXSI) rocket is an X-ray instrument optimised for lookin at the Sun.
+There are two READMEs that, for us, will be the same: one for the public and one for members.
 
-Visit our Github website [here](https://foxsi.github.io/) at `https://foxsi.github.io/`.
+A member can view both by toggling the `View as:` box to the right of the main repository page.
 
-More information on the 4th and 5th iteration of the rocket can be found here:
-- 🔭 [FOXSI-4 and -5](https://foxsi.umn.edu/) sounding rockets.
+The two READMEs:
+
+- The README shown to the public is stored in `.github/profile/README.md`.
+- The README shown to the members is stored in `.github-private/profile/README.md` which is a different repository.
